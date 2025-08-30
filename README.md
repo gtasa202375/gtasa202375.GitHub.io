@@ -11,8 +11,7 @@
 1. 打开终端（或命令提示符）。  
 2. 输入以下命令克隆仓库：  
    ```bash
-   git clone https://github.com/gtasa202375/gtasa202375.GitHub.io.git
-   cd gtasa202375.GitHub.io
+   git clone https://github.com/gtasa202375/gtasa202375.GitHub.io.git cd gtasa202375.GitHub.io 
 
 3. 仓库即下载完成。
 
@@ -119,4 +118,5 @@ GitHub Pages：简单、免费
 Vercel：适合动态/静态站点，自动构建
 
 Netlify：静态站点友好，免费 HTTPS
+
 
