@@ -1,3 +1,5 @@
+好的，我已把访问链接修改为你指定的 https://blog.ieshacv.dpdns.org/，下面是更新后的 README.md：
+
 # 关于 AI 的博客与我的故事
 
 这是一个个人博客项目，托管于 GitHub Pages，分享与 AI 相关的内容，以及我自己的学习与生活故事。
@@ -30,3 +32,41 @@
    ```bash
    git clone https://github.com/gtasa202375/gtasa202375.GitHub.io.git
    cd gtasa202375.GitHub.io
+
+2. 安装依赖（如项目使用构建工具）
+
+npm install
+
+
+3. 本地启动服务（示例命令，根据项目实际工具调整）
+
+npm run serve
+
+
+4. 访问页面预览：在浏览器中输入 http://localhost:xxxx 查看效果。
+
+
+
+> 如果项目未使用任何构建工具，可跳过安装与启动步骤，直接修改 docs/ 中内容，GitHub Pages 会自动更新。
+
+
+
+贡献指引
+
+欢迎以以下方式参与改进项目：
+
+提交 Issue：提出建议或问题
+
+Pull Request：修复错误、补充文章或改进样式
+
+文章投稿：欢迎以 PR 形式贡献新的博客内容
+
+
+请确保内容符合项目风格并附带必要的图片、标签或配置。
+
+关于我
+
+这是我的 AI 博客，同时也是记录自己成长和学习之路的地方。希望在这里与你分享思考、经验，以及 AI 的魅力。
+
+要不要我帮你在 `README.md` 里再加一个“自定义域名说明”，写明博客现在通过 `blog.ieshacv.dpdns.org` 来访问？
+
